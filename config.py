@@ -1,0 +1,1 @@
+EXA_API_KEY = 'cb98a6d6-44cf-4599-be97-47f802a93a5d'
